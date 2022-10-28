@@ -1,7 +1,7 @@
 ![banner](banner.gif)
 
 <p align="center">
-	<code> [ Have a look at the presentation slides: <a href="slides.pdf"><code>slides.pdf</code></a> ] </code><br>
+	<code> [ Have a look at the presentation slides: <a href="slides-OFFZONE.pdf"><code>slides-OFFZONE.pdf</code></a> / <a href="slides-ODS.pdf"><code>slides-ODS.pdf</code></a> ] </code><br>
   	<code> [ Related demonstration (<a href="https://github.com/jupyter/notebook">Jupyter</a> notebook): <a href="demo.ipynb"><code>demo.ipynb</code></a> ] </code><br><br>
   	<b>
 		<a href="#-overview">Overview</a> | 
@@ -18,16 +18,16 @@
 # 📦 Overview
 
 [`demo.ipynb`](demo.ipynb):<br>
-A demonstration of use of multifunctional [tools](#-tools) during security testing of machine learning models [`digits_blackbox`](https://github.com/Azure/counterfit/tree/main/counterfit/targets/digits_blackbox) & [`digits_keras`](https://github.com/Azure/counterfit/tree/main/counterfit/targets/digits_keras) trained on the MNIST dataset and provided in [Counterfit](https://github.com/Azure/counterfit/tree/main/counterfit/targets) as example targets.<br>
+A demonstration of use of multifunctional [tools](#-tools) during security testing of machine learning models [`digits_blackbox`](https://github.com/Azure/counterfit/tree/main/counterfit/targets/digits_blackbox) & [`digits_keras`](https://github.com/Azure/counterfit/tree/main/counterfit/targets/digits_keras) trained on the MNIST dataset and provided in [Counterfit](https://github.com/Azure/counterfit/tree/main/counterfit/targets) as example targets.<br><br>
 
-
-[`slides.pdf`](slides.pdf):
+Slides:
 <br>&emsp;–&emsp;Machine Learning in products
 <br>&emsp;–&emsp;Threats to Machine Learning models
 <br>&emsp;–&emsp;Example model overview
-<br>&emsp;–&emsp;Evasion attack
-<br>&emsp;–&emsp;Model inversion attack
-<br>&emsp;–&emsp;Model extraction attack
+<br>&emsp;–&emsp;Evasion attacks
+<br>&emsp;–&emsp;Model inversion attacks
+<br>&emsp;–&emsp;Model extraction attacks
+<br>&emsp;–&emsp;Defences
 <br>&emsp;–&emsp;Adversarial Robustness Toolbox
 <br>&emsp;–&emsp;Counterfit<br>
 
