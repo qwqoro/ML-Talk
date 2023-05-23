@@ -1,4 +1,4 @@
-![banner](banner.gif)
+![gif](images/gif.gif)
 
 <p align="center">
 	<code> [ Have a look at the presentation slides: <a href="slides-OFFZONE.pdf"><code>slides-OFFZONE.pdf</code></a> / <a href="slides-ODS.pdf"><code>slides-ODS.pdf</code></a> ] </code><br>
